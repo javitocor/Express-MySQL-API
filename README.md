@@ -21,7 +21,7 @@
 
 # Express MySQL API
 
->  An API built with Express js and MySQL. You can perfomr all CRUD operations with customers model.
+>  An API built with Express js and MySQL. You can perform all CRUD operations with customers model.
 
 
 Additional description about the project and its features.
@@ -33,7 +33,6 @@ Additional description about the project and its features.
 - EXPRESS
 - MySQL
 - NODE
-- ESLINT
 - GITHUB ACTIONS
 - VSCODE
 
