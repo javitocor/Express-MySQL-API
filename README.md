@@ -57,7 +57,7 @@ To have this app on your pc, you need to:
   - `$ npm install` - installs all the dependencies required by the project
 
   - `$ npm run devstart` - runs the app in the development mode:
-    - The API will run in [http://localhost:3000](http://localhost:3000)
+    - The API will run in [http://localhost:3000](http://localhost:8000)
     - You can use [Postman](https://www.postman.com/), [cURL](https://curl.se/) or any other tool of your choice to perform the API calls.
 
 ## Author
