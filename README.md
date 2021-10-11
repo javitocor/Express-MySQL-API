@@ -39,14 +39,14 @@ Additional description about the project and its features.
 
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/Events-API-Express/archive/main.zip) or clone this repo:
+* [download](https://github.com/javitocor/Express-MySQL-API/archive/main.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/Events-API-Express.git
+    git@github.com:javitocor/Express-MySQL-API.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/Events-API-Express.git
+    https://github.com/javitocor/Express-MySQL-API.git
   ```
 * Requirements:
   - Nodejs and npm
@@ -73,7 +73,7 @@ To have this app on your pc, you need to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Events-API-Express/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Express-MySQL-API/issues).
 
 ## Show your support
 
@@ -89,11 +89,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Events-API-Express.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Events-API-Express/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Events-API-Express.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Events-API-Express/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Events-API-Express.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Events-API-Express/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Events-API-Express.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Events-API-Express/issues
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Express-MySQL-API.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/Express-MySQL-API/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/Express-MySQL-API.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/Express-MySQL-API/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/Express-MySQL-API.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/Express-MySQL-API/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/Express-MySQL-API.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/Express-MySQL-API/issues
